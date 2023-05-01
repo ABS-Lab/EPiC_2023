@@ -10,6 +10,14 @@ The Python libraries and packages are available in the md file "Dependencies.md"
 ### FINAL RESULTS
 Our final results are available in the folder *"Epic23_Northeastern_submission"*.
 
+--------
+
+### Our awesome Team
+Our team was composed by three graduate students from the Affective and Brain Sciences Lab, Northeastern University.
+Alessia Iancarelli, 4th year PhD student
+Kieran McVeigh, 3rd year PhD student
+Yiyu Wang, 5th year PhD student
+
 ### Overview
 In this work, we employ various regression models to predict
 valence and arousal levels based on the down-sampled
