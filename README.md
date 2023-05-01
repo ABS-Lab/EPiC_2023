@@ -83,3 +83,7 @@ participants in the training in a 5-fold cross-validation.
 Corresponding to the third and fourth scenarios, we split the
 videos in the training set in a 4-fold and 2-fold cross-
 validation. (see *"pipeline_helper.py"*)
+
+### Results Summary
+The final submited models: SubmissionResults.ipynb
+For easy visualization: Results_Summarizer.ipynb
