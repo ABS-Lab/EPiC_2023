@@ -5,6 +5,7 @@ competition to predict affective experiences from physiology
 data. More details about the challenge can be found here: https://github.com/Emognition/EPiC-2023-competition/blob/main/README.md
 
 A summary of the physiology data employed is available in the md file "physio_variables.md", in this GitHub branch.
+The Python libraries and packages are available in the md file "Dependencies.md".
 
 ### Overview
 In this work, we employ various regression models to predict
