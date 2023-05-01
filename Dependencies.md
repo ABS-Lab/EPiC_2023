@@ -16,6 +16,8 @@ from scipy.signal import resample
 rom scipy.stats import zscore
 from scipy.signal import butter, filtfilt
 
+import xgboost as xgb
+
 import neurokit2 as nk
 
 import plotly.graph_objects as go
