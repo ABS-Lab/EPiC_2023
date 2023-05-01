@@ -7,6 +7,9 @@ data. More details about the challenge can be found here: https://github.com/Emo
 A summary of the physiology data employed is available in the md file "physio_variables.md", in this GitHub branch.
 The Python libraries and packages are available in the md file "Dependencies.md".
 
+### FINAL RESULTS
+Our final results are available in the folder *"Epic23_Northeastern_submission"*.
+
 ### Overview
 In this work, we employ various regression models to predict
 valence and arousal levels based on the down-sampled
