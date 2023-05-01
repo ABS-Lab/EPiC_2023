@@ -39,7 +39,7 @@ we iterate through various combinations of input features and
 assess their performance using the RMSE metric.
 
 ### Preprocessing
-You can find the scripts used for data cleaning, features extraction, and manipulation in the folder "Preprocessing.zip".
+You can find the scripts used for data cleaning, features extraction, and manipulation in the folder *"Preprocessing.zip".*
 Data preprocessing was performed using the NeuroKit2
 Python library. For each of the signals, we followed the
 standard NeuroKit2 processing pipeline.
